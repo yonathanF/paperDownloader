@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3Dall%3Adata%26id_list%3D%26start%3D0%26max_results%3D10" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=all:data&amp;id_list=&amp;start=0&amp;max_results=10</title>
+  <id>http://arxiv.org/api/I9xS3X/hnay9xObTYrzd9VvNz8k</id>
+  <updated>2017-07-15T00:00:00-04:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">200662</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">10</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/1612.04053v1</id>
+    <updated>2016-12-13T08:04:36Z</updated>
+    <published>2016-12-13T08:04:36Z</published>
+    <title>Data Gathering from Path Constrained Mobile Sensors Using Data MULE</title>
+    <summary>  In Wireless Sensor Network (WSN) sensor nodes are deployed to sense useful
+data from environment. Sensors are energy-constrained devices. To prolong the
+sensor network lifetime, now a days mobile robots (sometimes refer as data
+sink, data mules, or data collectors) are used for collecting the sensed data
+from the sensors. In this environment sensor nodes directly transfer their
+sensed data to the data mules. Sensed data are sometime time sensitive;
+therefore, the data should be collected within a predefined period. Hence,
+depending on the speed of the data mules the trajectory lengths of the data
+mules have upper limits. In this paper an approximation algorithm is proposed
+for collecting data from the mobile sensors using mobile data collectors
+</summary>
+    <author>
+      <name>Dinesh Dash</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">7 pages, 3 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1612.04053v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1612.04053v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.NI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.NI" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1401.5465v3</id>
+    <updated>2014-02-27T03:40:26Z</updated>
+    <published>2014-01-22T02:17:52Z</published>
+    <title>BDGS: A Scalable Big Data Generator Suite in Big Data Benchmarking</title>
+    <summary>  Data generation is a key issue in big data benchmarking that aims to generate
+application-specific data sets to meet the 4V requirements of big data.
+Specifically, big data generators need to generate scalable data (Volume) of
+different types (Variety) under controllable generation rates (Velocity) while
+keeping the important characteristics of raw data (Veracity). This gives rise
+to various new challenges about how we design generators efficiently and
+successfully. To date, most existing techniques can only generate limited types
+of data and support specific big data systems such as Hadoop. Hence we develop
+a tool, called Big Data Generator Suite (BDGS), to efficiently generate
+scalable big data while employing data models derived from real data to
+preserve data veracity. The effectiveness of BDGS is demonstrated by developing
+six data generators covering three representative data types (structured,
+semi-structured and unstructured) and three data sources (text, graph, and
+table data).
+</summary>
+    <author>
+      <name>Zijian Ming</name>
+    </author>
+    <author>
+      <name>Chunjie Luo</name>
+    </author>
+    <author>
+      <name>Wanling Gao</name>
+    </author>
+    <author>
+      <name>Rui Han</name>
+    </author>
+    <author>
+      <name>Qiang Yang</name>
+    </author>
+    <author>
+      <name>Lei Wang</name>
+    </author>
+    <author>
+      <name>Jianfeng Zhan</name>
+    </author>
+    <link href="http://arxiv.org/abs/1401.5465v3" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1401.5465v3" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.DB" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.DB" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1601.02334v1</id>
+    <updated>2016-01-11T06:09:42Z</updated>
+    <published>2016-01-11T06:09:42Z</published>
+    <title>The LAMOST Data Archive and Data Release</title>
+    <summary>  The Large sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) is the
+largest optical telescope in China. In last four years, the LAMOST telescope
+has published four editions data (pilot data release, data release 1, data
+release 2 and data release 3). To archive and release these data (raw data,
+catalog, spectrum etc), we have set up a data cycle management system,
+including the transfer of data, archiving, backup. And through the evolution of
+four software versions, mature established data release system.
+</summary>
+    <author>
+      <name>Boliang He</name>
+    </author>
+    <author>
+      <name>Dongwei Fan</name>
+    </author>
+    <author>
+      <name>Chenzhou Cui</name>
+    </author>
+    <author>
+      <name>Shanshan Li</name>
+    </author>
+    <author>
+      <name>Changhua Li</name>
+    </author>
+    <author>
+      <name>Linying Mi</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">4 pages, 4 figures, ADASS XXV Proceedings</arxiv:comment>
+    <link href="http://arxiv.org/abs/1601.02334v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1601.02334v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1307.7943v1</id>
+    <updated>2013-07-30T12:34:49Z</updated>
+    <published>2013-07-30T12:34:49Z</published>
+    <title>The Implications of Diverse Applications and Scalable Data Sets in
+  Benchmarking Big Data Systems</title>
+    <summary>  Now we live in an era of big data, and big data applications are becoming
+more and more pervasive. How to benchmark data center computer systems running
+big data applications (in short big data systems) is a hot topic. In this
+paper, we focus on measuring the performance impacts of diverse applications
+and scalable volumes of data sets on big data systems. For four typical data
+analysis applications---an important class of big data applications, we find
+two major results through experiments: first, the data scale has a significant
+impact on the performance of big data systems, so we must provide scalable
+volumes of data sets in big data benchmarks. Second, for the four applications,
+even all of them use the simple algorithms, the performance trends are
+different with increasing data scales, and hence we must consider not only
+variety of data sets but also variety of applications in benchmarking big data
+systems.
+</summary>
+    <author>
+      <name>Zhen Jia</name>
+    </author>
+    <author>
+      <name>Runlin Zhou</name>
+    </author>
+    <author>
+      <name>Chunge Zhu</name>
+    </author>
+    <author>
+      <name>Lei Wang</name>
+    </author>
+    <author>
+      <name>Wanling Gao</name>
+    </author>
+    <author>
+      <name>Yingjie Shi</name>
+    </author>
+    <author>
+      <name>Jianfeng Zhan</name>
+    </author>
+    <author>
+      <name>Lixin Zhang</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">16 pages, 3 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1307.7943v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1307.7943v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.PF" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.PF" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0709.3587v1</id>
+    <updated>2007-09-22T15:54:37Z</updated>
+    <published>2007-09-22T15:54:37Z</published>
+    <title>Self-organizing maps and symbolic data</title>
+    <summary>  In data analysis new forms of complex data have to be considered like for
+example (symbolic data, functional data, web data, trees, SQL query and
+multimedia data, ...). In this context classical data analysis for knowledge
+discovery based on calculating the center of gravity can not be used because
+input are not $\mathbb{R}^p$ vectors. In this paper, we present an application
+on real world symbolic data using the self-organizing map. To this end, we
+propose an extension of the self-organizing map that can handle symbolic data.
+</summary>
+    <author>
+      <name>Aïcha El Golli</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">INRIA Rocquencourt / INRIA Sophia Antipolis</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Brieuc Conan-Guez</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">INRIA Rocquencourt / INRIA Sophia Antipolis</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Fabrice Rossi</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">INRIA Rocquencourt / INRIA Sophia Antipolis</arxiv:affiliation>
+    </author>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Journal of Symbolic Data Analysis 2, 1 (2004)</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/0709.3587v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0709.3587v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.NE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.NE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1202.6009v1</id>
+    <updated>2012-02-27T17:37:20Z</updated>
+    <published>2012-02-27T17:37:20Z</published>
+    <title>Marginality: a numerical mapping for enhanced treatment of nominal and
+  hierarchical attributes</title>
+    <summary>  The purpose of statistical disclosure control (SDC) of microdata, a.k.a. data
+anonymization or privacy-preserving data mining, is to publish data sets
+containing the answers of individual respondents in such a way that the
+respondents corresponding to the released records cannot be re-identified and
+the released data are analytically useful. SDC methods are either based on
+masking the original data, generating synthetic versions of them or creating
+hybrid versions by combining original and synthetic data. The choice of SDC
+methods for categorical data, especially nominal data, is much smaller than the
+choice of methods for numerical data. We mitigate this problem by introducing a
+numerical mapping for hierarchical nominal data which allows computing means,
+variances and covariances on them.
+</summary>
+    <author>
+      <name>Josep Domingo-Ferrer</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">12 pages</arxiv:comment>
+    <link href="http://arxiv.org/abs/1202.6009v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1202.6009v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="62-07 Data Analysis" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="H.2.8" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1312.0156v1</id>
+    <updated>2013-11-30T21:33:49Z</updated>
+    <published>2013-11-30T21:33:49Z</published>
+    <title>Datom: Towards modular data management</title>
+    <summary>  Recent technology breakthroughs have enabled data collection of unprecedented
+scale, rate, variety and complexity that has led to an explosion in data
+management requirements. Existing theories and techniques are not adequate to
+fulfil these requirements. We endeavour to rethink the way data management
+research is being conducted and we propose to work towards modular data
+management that will allow for unification of the expression of data management
+problems and systematization of their solution. The core of such an approach is
+the novel notion of a datom, i.e. a data management atom, which encapsulates
+generic data management provision. The datom is the foundation for comparison,
+customization and re-usage of data management problems and solutions. The
+proposed approach can signal a revolution in data management research and a
+long anticipated evolution in data management engineering.
+</summary>
+    <author>
+      <name>Verena Kantere</name>
+    </author>
+    <link href="http://arxiv.org/abs/1312.0156v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1312.0156v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.DB" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.DB" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1203.2000v1</id>
+    <updated>2012-03-09T06:59:40Z</updated>
+    <published>2012-03-09T06:59:40Z</published>
+    <title>Overview of streaming-data algorithms</title>
+    <summary>  Due to recent advances in data collection techniques, massive amounts of data
+are being collected at an extremely fast pace. Also, these data are potentially
+unbounded. Boundless streams of data collected from sensors, equipments, and
+other data sources are referred to as data streams. Various data mining tasks
+can be performed on data streams in search of interesting patterns. This paper
+studies a particular data mining task, clustering, which can be used as the
+first step in many knowledge discovery processes. By grouping data streams into
+homogeneous clusters, data miners can learn about data characteristics which
+can then be developed into classification models for new data or predictive
+models for unknown events. Recent research addresses the problem of data-stream
+mining to deal with applications that require processing huge amounts of data
+such as sensor data analysis and financial applications. For such analysis,
+single-pass algorithms that consume a small amount of memory are critical.
+</summary>
+    <author>
+      <name>T Soni Madhulatha</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">10 pages</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Advanced Computing: An International Journal ( ACIJ ), November
+  2011, Volume 2, Number 6 Advanced Computing: An International Journal ( ACIJ
+  ) ISSN : 2229 - 6727 [Online] ; 2229 - 726X [Print]</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1203.2000v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1203.2000v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.DB" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.DB" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1204.3677v1</id>
+    <updated>2012-04-17T00:59:53Z</updated>
+    <published>2012-04-17T00:59:53Z</published>
+    <title>Bayesian Data Cleaning for Web Data</title>
+    <summary>  Data Cleaning is a long standing problem, which is growing in importance with
+the mass of uncurated web data. State of the art approaches for handling
+inconsistent data are systems that learn and use conditional functional
+dependencies (CFDs) to rectify data. These methods learn data
+patterns--CFDs--from a clean sample of the data and use them to rectify the
+dirty/inconsistent data. While getting a clean training sample is feasible in
+enterprise data scenarios, it is infeasible in web databases where there is no
+separate curated data. CFD based methods are unfortunately particularly
+sensitive to noise; we will empirically demonstrate that the number of CFDs
+learned falls quite drastically with even a small amount of noise. In order to
+overcome this limitation, we propose a fully probabilistic framework for
+cleaning data. Our approach involves learning both the generative and error
+(corruption) models of the data and using them to clean the data. For
+generative models, we learn Bayes networks from the data. For error models, we
+consider a maximum entropy framework for combing multiple error processes. The
+generative and error models are learned directly from the noisy data. We
+present the details of the framework and demonstrate its effectiveness in
+rectifying web data.
+</summary>
+    <author>
+      <name>Yuheng Hu</name>
+    </author>
+    <author>
+      <name>Sushovan De</name>
+    </author>
+    <author>
+      <name>Yi Chen</name>
+    </author>
+    <author>
+      <name>Subbarao Kambhampati</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">6 pages, 7 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1204.3677v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1204.3677v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.DB" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.DB" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="H.3.3" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1306.1730v1</id>
+    <updated>2013-06-07T13:56:43Z</updated>
+    <published>2013-06-07T13:56:43Z</published>
+    <title>A Conceptual Metadata Framework for Spatial Data Warehouse</title>
+    <summary>  Metadata represents the information about data to be stored in Data
+Warehouses.It is a mandatory element of Data Warehouse to build an efficient
+Data Warehouse.Metadata helps in data integration,lineage,data quality and
+populating transformed data into data warehouse.Spatial data warehouses are
+based on spatial data mostly collected from Geographical Information
+Systems(GIS)and the transactional systems that are specific to an application
+or enterprise.Metadata design and deployment is the most critical phase in
+building of data warehouse where it is mandatory to bring the spatial
+information and data modeling together.In this paper,we present a holistic
+metadata framework that drives metadata creation for spatial data warehouse.
+Theoretically, the proposed metadata framework improves the efficiency of
+accessing of data in response to frequent queries on SDWs.In other words, the
+proposed framework decreases the response time of the query and accurate
+information is fetched from Data Warehouse including the spatial information.
+</summary>
+    <author>
+      <name>M. Laxmaiah</name>
+    </author>
+    <author>
+      <name>A. Govardhan</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.5121/IJDKP.2013.3306</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.5121/IJDKP.2013.3306" rel="related"/>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">International Journal of Data Mining &amp; Knowledge Management
+  Process (IJDKP) Vol.3, No.3, May 2013</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1306.1730v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1306.1730v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.DB" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.DB" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>

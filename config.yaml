@@ -1,0 +1,8 @@
+- AmountOfPapers: 1
+- DownloadPdfs: Yes
+- UpdateBib: Yes
+- PrintPdfs: Yes
+- LocationOfPdfs: /pdfs
+- Keywords:
+    - computer science
+  
