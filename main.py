@@ -69,5 +69,7 @@ def getPapers():
             with open(link[1]+".pdf", 'wb') as pdf:
                 pdf.write(stream.read())
                 print('Finished saving pdf')
+
+
 getPapers()
 
